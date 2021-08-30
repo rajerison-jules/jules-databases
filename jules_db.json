@@ -1,0 +1,67 @@
+{
+  "contry": [
+    "japanese",
+    "chinese",
+    "Italian",
+    "American",
+    "English",
+    "Greek",
+    "Tai",
+    "Indian",
+    "Mexican"
+  ],
+  "stylesOne": [
+    {
+      "width": "150px",
+      "height": "150px",
+      "backgroundColor": "#887964",
+      "color": "#fff",
+      "fontSize": "100%"
+    },
+    {
+      "width": "100px",
+      "height": "100px",
+      "backgroundColor": "#b2a582",
+      "color": "#fff",
+      "fontSize": "100%"
+    },
+    {
+      "width": "50px",
+      "height": "50px",
+      "backgroundColor": "#d7d0b6",
+      "color": "#fff"
+    }
+  ],
+  "stylesTwo": {
+    "Width": "auto",
+    "height": "50px",
+    "backgroundColor": "#b2a582",
+    "color": "#fff"
+  },
+  "food": [
+    "Bakery",
+    "Bread",
+    "Meat",
+    "Seafood",
+    "Pasta",
+    "Rice",
+    "Oils",
+    "Sauces",
+    "Salad",
+    "Cereals",
+    "Soups",
+    "Canned",
+    "Frozen",
+    "Dairy",
+    "Cheese",
+    "Eggs",
+    "Cereals",
+    "Soups",
+    "Canned",
+    "Frozen",
+    "Dairy",
+    "Cheese",
+    "Eggs",
+    "Eggs"
+  ]
+}
