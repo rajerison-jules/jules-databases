@@ -62,27 +62,32 @@
             {
                 "quantity": "1",
                 "name": " beef roast",
-                "type": "Meat"
+                "type": "Meat",
+                "image": "https://imgur.com/VwTsWMO.jpg"
             },
             {
                 "quantity": "1 package",
                 "name": "brown gravy mix",
-                "type": "Baking"
+                "type": "Baking",
+                "image": "https://imgur.com/6t0OVmA.jpg"
             },
             {
                 "quantity": "1 package",
                 "name": "dried Italian salad dressing mix",
-                "type": "Condiments"
+                "type": "Condiments",
+                "image": "https://imgur.com/MGjxkSr.jpg"
             },
             {
                 "quantity": "1 package",
                 "name": "dry ranch dressing mix",
-                "type": "Condiments"
+                "type": "Condiments",
+                "image": "https://imgur.com/83n4Rwu.jpg"
             },
             {
                 "quantity": "1/2 cup",
                 "name": "water",
-                "type": "Drinks"
+                "type": "Drinks",
+                "image": "https://imgur.com/RPGfHM3.jpg"
             }
         ]
 }
