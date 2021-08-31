@@ -1,0 +1,88 @@
+{
+  "contry": [
+    "japanese",
+    "chinese",
+    "Italian",
+    "American",
+    "English",
+    "Greek",
+    "Tai",
+    "Indian",
+    "Mexican"
+  ],
+  "stylesOne": [
+    {
+      "width": "150px",
+      "height": "150px",
+      "backgroundColor": "#887964",
+      "color": "#fff",
+      "fontSize": "100%"
+    },
+    {
+      "width": "100px",
+      "height": "100px",
+      "backgroundColor": "#b2a582",
+      "color": "#fff",
+      "fontSize": "100%"
+    },
+    {
+      "width": "50px",
+      "height": "50px",
+      "backgroundColor": "#d7d0b6",
+      "color": "#fff"
+    }
+  ],
+  "stylesTwo": {
+    "Width": "auto",
+    "height": "50px",
+    "backgroundColor": "#b2a582",
+    "color": "#fff"
+  },
+  "food": [
+    "Bakery",
+    "Bread",
+    "Meat",
+    "Seafood",
+    "Pasta",
+    "Rice",
+    "Oils",
+    "Sauces",
+    "Salad",
+    "Cereals",
+    "Soups",
+    "Canned",
+    "Frozen",
+    "Dairy",
+    "Cheese",
+    "Eggs",
+    "Cereals",
+    "Soups",
+    "Canned",
+    "Frozen",
+    "Dairy",
+    "Cheese",
+    "Eggs",
+    "Eggs"
+  ]
+      "foodItems":[
+            { "foodName":"Hamburger", "foodType":"Burger", "calories":390 },
+            { "foodName":"Burger", "calories":670, "correctedTerm":"Hamburger" },
+            { "foodName":"Cheeseburger", "foodType":"Burger", "calories":480 },
+            { "foodName":"Double Double", "foodType":"Burger", "calories":670 },
+	    { "foodName":"Double-Double", "calories":670 },
+	    { "foodName":"Double Double Burger", "calories":670, "correctedTerm":"Double Double" },
+            { "foodName":"Double", "calories":670, "correctedTerm":"Double Double" },
+	    { "foodName":"Double Meat", "foodType":"Secret Menu", "calories":560 },
+	    { "foodName":"Three by Three", "foodType":"Secret Menu", "calories":860 },
+	    { "foodName":"3x3", "calories":860, "correctedTerm":"Three by Three" },
+	    { "foodName":"Four by Four", "foodType":"Secret Menu", "calories":1050 },
+	    { "foodName":"4x4", "calories":1050, "correctedTerm":"Four by Four" },
+	    { "foodName":"Grilled Cheese", "foodType":"Secret Menu", "calories":380 },
+	    { "foodName":"Veggie Burger", "foodType":"Secret Menu", "calories":200 },
+            { "foodName":"French Fries", "calories":395, "sideItem":true, "ketchupItem":true },
+            { "foodName":"Fries", "calories":395, "correctedTerm":"French Fries", "sideItem":true, "ketchupItem":true },
+	    { "foodName":"Chocolate Shake", "foodType":"Shake", "calories":590, "sideItem":true },
+            { "foodName":"Vanilla Shake", "foodType":"Shake", "calories":590, "sideItem":true },
+            { "foodName":"Strawberry Shake", "foodType":"Shake", "calories":590, "sideItem":true }
+	]
+}
