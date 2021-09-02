@@ -76,7 +76,7 @@
                 "quantity": "1 package",
                 "name": "brown gravy mix",
                 "type": "Baking",
-                "image": "https://imgur.com/6t0OVmA.jpg"
+                "image": "https://imgur.com/6t0OVmA.jpg",
 		"rate": "75254",
 		"sousTitre": "Lorem ipsum dolor sit amet ",
 		"serving":"3",
@@ -90,7 +90,7 @@
                 "quantity": "1 package",
                 "name": "dried Italian salad dressing mix",
                 "type": "Condiments",
-                "image": "https://imgur.com/MGjxkSr.jpg"
+                "image": "https://imgur.com/MGjxkSr.jpg",
 		"rate": "75432",
 		"sousTitre": "Lorem ipsum dolor sit amet ",
 		"serving":"3",
@@ -104,7 +104,7 @@
                 "quantity": "1 package",
                 "name": "dry ranch dressing mix",
                 "type": "Condiments",
-                "image": "https://imgur.com/83n4Rwu.jpg"
+                "image": "https://imgur.com/83n4Rwu.jpg",
 		"rate": "2342",
 		"sousTitre": "Lorem ipsum dolor sit amet ",
 		"serving":"3",
@@ -118,7 +118,7 @@
                 "quantity": "1/2 cup",
                 "name": "water",
                 "type": "Drinks",
-                "image": "https://imgur.com/RPGfHM3.jpg"
+                "image": "https://imgur.com/RPGfHM3.jpg",
 		"rate": "24524",
 		"sousTitre": "Lorem ipsum dolor sit amet ",
 		"serving":"3",
