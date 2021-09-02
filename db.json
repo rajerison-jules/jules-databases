@@ -63,31 +63,70 @@
                 "quantity": "1",
                 "name": " beef roast",
                 "type": "Meat",
-                "image": "https://imgur.com/VwTsWMO.jpg"
+                "image": "https://imgur.com/VwTsWMO.jpg",
+		"rate": "6740",
+		"sousTitre": "Lorem ipsum dolor sit amet ",
+		"serving":"3",
+		"prepare": "25",
+		"cook": "20",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+		"ingredient":["225g softened butter","225g golden caster sugar","4 large eggs","lemon, zested","1 tsp vanilla extract","225g self-raising flour","splash of milk","icing sugar for dusting"]
             },
             {
                 "quantity": "1 package",
                 "name": "brown gravy mix",
                 "type": "Baking",
                 "image": "https://imgur.com/6t0OVmA.jpg"
+		"rate": "75254",
+		"sousTitre": "Lorem ipsum dolor sit amet ",
+		"serving":"3",
+		"prepare": "25",
+		"cook": "20",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+		"ingredient":["225g softened butter","225g golden caster sugar","4 large eggs","lemon, zested","1 tsp vanilla extract","225g self-raising flour","splash of milk","icing sugar for dusting"]
+            
             },
             {
                 "quantity": "1 package",
                 "name": "dried Italian salad dressing mix",
                 "type": "Condiments",
                 "image": "https://imgur.com/MGjxkSr.jpg"
+		"rate": "75432",
+		"sousTitre": "Lorem ipsum dolor sit amet ",
+		"serving":"3",
+		"prepare": "25",
+		"cook": "20",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+		"ingredient":["225g softened butter","225g golden caster sugar","4 large eggs","lemon, zested","1 tsp vanilla extract","225g self-raising flour","splash of milk","icing sugar for dusting"]
+            
             },
             {
                 "quantity": "1 package",
                 "name": "dry ranch dressing mix",
                 "type": "Condiments",
                 "image": "https://imgur.com/83n4Rwu.jpg"
+		"rate": "2342",
+		"sousTitre": "Lorem ipsum dolor sit amet ",
+		"serving":"3",
+		"prepare": "25",
+		"cook": "20",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+		"ingredient":["225g softened butter","225g golden caster sugar","4 large eggs","lemon, zested","1 tsp vanilla extract","225g self-raising flour","splash of milk","icing sugar for dusting"]
+            
             },
             {
                 "quantity": "1/2 cup",
                 "name": "water",
                 "type": "Drinks",
                 "image": "https://imgur.com/RPGfHM3.jpg"
+		"rate": "24524",
+		"sousTitre": "Lorem ipsum dolor sit amet ",
+		"serving":"3",
+		"prepare": "25",
+		"cook": "20",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+		"ingredient":["225g softened butter","225g golden caster sugar","4 large eggs","lemon, zested","1 tsp vanilla extract","225g self-raising flour","splash of milk","icing sugar for dusting"]
+            
             }
         ]
 }
