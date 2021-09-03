@@ -106,7 +106,54 @@
         "splash of milk",
         "icing sugar for dusting"
       ]
+    },
+    {
+      "id": 4,
+      "foodName": "Fish",
+      "foodType": "SeaFood",
+      "calories": 480,
+      "image": "https://imgur.com/yAbUUg8.jpg",
+      "rate": "125541",
+      "sousTitre": "Lorem ipsum dolor sit amet ",
+      "serving": "3",
+      "prepare": "25",
+      "cook": "20",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "ingredient": [
+        "225g softened butter",
+        "225g golden caster sugar",
+        "4 large eggs",
+        "lemon, zested",
+        "1 tsp vanilla extract",
+        "225g self-raising flour",
+        "splash of milk",
+        "icing sugar for dusting"
+      ]
+    },
+    {
+      "id": 5,
+      "foodName": "Burger",
+      "calories": 670,
+      "correctedTerm": "Hamburger",
+      "image": "https://imgur.com/HTQKrDs.jpg",
+      "rate": "6654",
+      "sousTitre": "Lorem ipsum dolor sit amet ",
+      "serving": "3",
+      "prepare": "25",
+      "cook": "20",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "ingredient": [
+        "225g softened butter",
+        "225g golden caster sugar",
+        "4 large eggs",
+        "lemon, zested",
+        "1 tsp vanilla extract",
+        "225g self-raising flour",
+        "splash of milk",
+        "icing sugar for dusting"
+      ]
     }
+    
   ],
   "recipes": [
     {
@@ -115,21 +162,7 @@
       "type": "Meat",
       "image": "https://imgur.com/VwTsWMO.jpg",
       "rate": "154",
-      "sousTitre": "Lorem ipsum dolor sit amet ",
-      "serving": "3",
-      "prepare": "25",
-      "cook": "20",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
-      "ingredient": [
-        "225g softened butter",
-        "225g golden caster sugar",
-        "4 large eggs",
-        "lemon, zested",
-        "1 tsp vanilla extract",
-        "225g self-raising flour",
-        "splash of milk",
-        "icing sugar for dusting"
-      ]
+      "sousTitre": "Lorem ipsum dolor sit amet "
     },
     {
       "quantity": "1 package",
@@ -137,21 +170,7 @@
       "type": "Baking",
       "image": "https://imgur.com/6t0OVmA.jpg",
       "rate": "75254",
-      "sousTitre": "Lorem ipsum dolor sit amet ",
-      "serving": "3",
-      "prepare": "25",
-      "cook": "20",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
-      "ingredient": [
-        "225g softened butter",
-        "225g golden caster sugar",
-        "4 large eggs",
-        "lemon, zested",
-        "1 tsp vanilla extract",
-        "225g self-raising flour",
-        "splash of milk",
-        "icing sugar for dusting"
-      ]
+      "sousTitre": "Lorem ipsum dolor sit amet "
     },
     {
       "quantity": "1 package",
@@ -159,21 +178,7 @@
       "type": "Condiments",
       "image": "https://imgur.com/MGjxkSr.jpg",
       "rate": "75432",
-      "sousTitre": "Lorem ipsum dolor sit amet ",
-      "serving": "3",
-      "prepare": "25",
-      "cook": "20",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
-      "ingredient": [
-        "225g softened butter",
-        "225g golden caster sugar",
-        "4 large eggs",
-        "lemon, zested",
-        "1 tsp vanilla extract",
-        "225g self-raising flour",
-        "splash of milk",
-        "icing sugar for dusting"
-      ]
+      "sousTitre": "Lorem ipsum dolor sit amet "
     },
     {
       "quantity": "1 package",
@@ -181,21 +186,7 @@
       "type": "Condiments",
       "image": "https://imgur.com/83n4Rwu.jpg",
       "rate": "2342",
-      "sousTitre": "Lorem ipsum dolor sit amet ",
-      "serving": "3",
-      "prepare": "25",
-      "cook": "20",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
-      "ingredient": [
-        "225g softened butter",
-        "225g golden caster sugar",
-        "4 large eggs",
-        "lemon, zested",
-        "1 tsp vanilla extract",
-        "225g self-raising flour",
-        "splash of milk",
-        "icing sugar for dusting"
-      ]
+      "sousTitre": "Lorem ipsum dolor sit amet "
     },
     {
       "quantity": "1/2 cup",
@@ -203,21 +194,7 @@
       "type": "Drinks",
       "image": "https://imgur.com/RPGfHM3.jpg",
       "rate": "24524",
-      "sousTitre": "Lorem ipsum dolor sit amet ",
-      "serving": "3",
-      "prepare": "25",
-      "cook": "20",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
-      "ingredient": [
-        "225g softened butter",
-        "225g golden caster sugar",
-        "4 large eggs",
-        "lemon, zested",
-        "1 tsp vanilla extract",
-        "225g self-raising flour",
-        "splash of milk",
-        "icing sugar for dusting"
-      ]
+      "sousTitre": "Lorem ipsum dolor sit amet "
     }
   ]
 }
