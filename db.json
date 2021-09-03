@@ -59,7 +59,13 @@
         "225g self-raising flour",
         "splash of milk",
         "icing sugar for dusting"
-      ]
+      ],
+      "steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+    ]
     },
     {
       "id": 2,
@@ -82,7 +88,13 @@
         "225g self-raising flour",
         "splash of milk",
         "icing sugar for dusting"
-      ]
+      ],
+      "steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+    ]
     },
     {
       "id": 3,
@@ -105,7 +117,13 @@
         "225g self-raising flour",
         "splash of milk",
         "icing sugar for dusting"
-      ]
+      ],
+      "steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+    ]
     },
     {
       "id": 4,
@@ -128,7 +146,12 @@
         "225g self-raising flour",
         "splash of milk",
         "icing sugar for dusting"
-      ]
+      ],"steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+    ]
     },
     {
       "id": 5,
@@ -152,6 +175,12 @@
         "splash of milk",
         "icing sugar for dusting"
       ]
+      ,"steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+    ]
     }
     
   ],
