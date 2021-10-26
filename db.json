@@ -26,7 +26,11 @@
     "Frozen",
     "Dairy",
     "Cheese",
-    "Eggs"
+    "Eggs",
+     "Seafood",
+    "Pasta",
+    "Rice",
+    "Oils"
   ],
   "foodItems": [
     {
